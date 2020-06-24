@@ -1,0 +1,26 @@
+2020-06-24 10:38:35,870 INFO raft peers changed: [Member{address='7d1be4c47823:8848'}]
+
+2020-06-24 10:38:35,941 INFO initializing Raft sub-system
+
+2020-06-24 10:38:35,942 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-06-24 10:38:35,945 INFO raft notifier started
+
+2020-06-24 10:38:35,947 INFO cache loaded, datum count: 0, current term: 0
+
+2020-06-24 10:38:35,947 INFO finish to load data from disk, cost: 5 ms.
+
+2020-06-24 10:38:35,965 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-06-24 10:38:36,682 INFO leader timeout, start voting,leader: {"ip":"7d1be4c47823:8848","term":0,"leaderDueMs":18089,"heartbeatDueMs":4500,"state":"FOLLOWER"}, term: 0
+
+2020-06-24 10:38:37,249 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-06-24 10:38:37,293 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-06-24 11:31:00,612 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@seata-server
+
+2020-06-24 11:49:21,737 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@order-service
+
+2020-06-24 12:19:29,662 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@storage-service
+

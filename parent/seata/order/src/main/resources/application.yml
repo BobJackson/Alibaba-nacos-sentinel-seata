@@ -1,0 +1,11 @@
+server:
+  port: 9091
+
+spring:
+  profiles:
+    active: local
+
+logging:
+  level:
+    io.seata:
+      debug

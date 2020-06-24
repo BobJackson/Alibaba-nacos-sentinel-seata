@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: nacos-config
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml

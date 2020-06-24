@@ -1,0 +1,36 @@
+2020-06-24 10:38:23,496 INFO notifyConnectTimeout:200
+
+2020-06-24 10:38:23,527 INFO notifySocketTimeout:8000
+
+2020-06-24 10:38:23,528 INFO isHealthCheck:true
+
+2020-06-24 10:38:23,529 INFO maxHealthCheckFailCount:12
+
+2020-06-24 10:38:23,530 INFO maxContent:10485760
+
+2020-06-24 10:38:23,532 INFO spring.datasource.platform:""
+
+2020-06-24 10:38:30,690 INFO use local db service for init
+
+2020-06-24 10:38:34,837 INFO use StandaloneDatabaseOperateImpl
+
+2020-06-24 10:38:37,583 WARN DumpService start
+
+2020-06-24 10:38:37,611 INFO start clear all config-info.
+
+2020-06-24 10:38:37,625 WARN clear all config-info failed.
+
+2020-06-24 10:38:37,628 WARN clear all config-info-tenant failed.
+
+2020-06-24 10:38:37,822 INFO start clear all config-info-beta.
+
+2020-06-24 10:38:37,826 WARN clear all config-info-beta failed.
+
+2020-06-24 10:38:37,828 WARN clear all config-info-beta-tenant failed.
+
+2020-06-24 10:38:37,852 INFO start clear all config-info-tag.
+
+2020-06-24 10:38:37,852 WARN clear all config-info-tag failed.
+
+2020-06-24 10:38:37,853 WARN clear all config-info-tag-tenant failed.
+

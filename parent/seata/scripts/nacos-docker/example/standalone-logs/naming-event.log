@@ -1,0 +1,128 @@
+2020-06-24 11:31:00,678 INFO DEFAULT_GROUP@@seata-server {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [172.19.0.2:8091:unknown:default_1.0_true_false_default]
+
+2020-06-24 11:31:00,684 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-server, ips: 172.19.0.2:8091_true,
+
+2020-06-24 11:49:21,738 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 11:49:21,738 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_true,
+
+2020-06-24 11:49:56,740 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592970576743
+
+2020-06-24 11:50:11,893 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-24 11:50:11,894 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2020-06-24 11:50:36,320 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 11:50:36,320 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_true,
+
+2020-06-24 11:54:45,165 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 11:54:45,165 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2020-06-24 11:55:08,159 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 11:55:08,159 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_true,
+
+2020-06-24 11:57:11,901 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592971013317
+
+2020-06-24 11:57:14,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_false,
+
+2020-06-24 11:57:19,835 INFO service: DEFAULT_GROUP@@order-service {POS} {IP-ENABLED} valid: 192.168.1.2:9091@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-24 12:09:29,529 INFO DEFAULT_GROUP@@seata-server {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [172.19.0.2:8091:unknown:default_1.0_true_false_default]
+
+2020-06-24 12:09:29,530 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-server, ips: 
+
+2020-06-24 12:10:16,034 INFO DEFAULT_GROUP@@seata-server {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.1.2:8091:unknown:default_1.0_true_false_default]
+
+2020-06-24 12:10:16,034 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-server, ips: 192.168.1.2:8091_true,
+
+2020-06-24 12:10:56,941 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592971841199
+
+2020-06-24 12:10:58,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_false,
+
+2020-06-24 12:11:03,343 INFO service: DEFAULT_GROUP@@order-service {POS} {IP-ENABLED} valid: 192.168.1.2:9091@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-24 12:19:29,663 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:19:29,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 192.168.1.2:18082_true,
+
+2020-06-24 12:37:22,024 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592973425818
+
+2020-06-24 12:37:24,715 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:18082@DEFAULT@DEFAULT_GROUP@@storage-service, region: unknown, msg: client timeout after 15000, last beat: 1592973426522
+
+2020-06-24 12:37:31,603 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_false,
+
+2020-06-24 12:37:36,604 INFO service: DEFAULT_GROUP@@order-service {POS} {IP-ENABLED} valid: 192.168.1.2:9091@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-24 12:37:36,848 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 192.168.1.2:18082_false,
+
+2020-06-24 12:37:41,846 INFO service: DEFAULT_GROUP@@storage-service {POS} {IP-ENABLED} valid: 192.168.1.2:18082@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-24 12:38:17,027 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592973481643
+
+2020-06-24 12:38:23,097 INFO service: DEFAULT_GROUP@@order-service {POS} {IP-ENABLED} valid: 192.168.1.2:9091@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-24 12:38:42,028 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592973503097
+
+2020-06-24 12:38:52,571 INFO service: DEFAULT_GROUP@@order-service {POS} {IP-ENABLED} valid: 192.168.1.2:9091@DEFAULT, region: unknown, msg: client beat ok
+
+2020-06-24 12:39:09,720 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:18082@DEFAULT@DEFAULT_GROUP@@storage-service, region: unknown, msg: client timeout after 15000, last beat: 1592973531924
+
+2020-06-24 12:39:24,742 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-24 12:39:24,742 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 
+
+2020-06-24 12:39:25,436 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:39:25,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 192.168.1.2:18082_true,
+
+2020-06-24 12:40:29,934 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:40:29,934 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2020-06-24 12:40:29,968 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:40:29,968 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 
+
+2020-06-24 12:40:48,690 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:40:48,690 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_true,
+
+2020-06-24 12:40:51,193 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:40:51,193 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 192.168.1.2:18082_true,
+
+2020-06-24 12:41:49,744 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:18082@DEFAULT@DEFAULT_GROUP@@storage-service, region: unknown, msg: client timeout after 15000, last beat: 1592973691246
+
+2020-06-24 12:41:52,036 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592973693785
+
+2020-06-24 12:42:04,781 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-24 12:42:04,782 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 
+
+2020-06-24 12:42:07,040 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-24 12:42:07,040 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2020-06-24 12:42:07,254 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:42:07,254 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.1.2:9091_true,
+
+2020-06-24 12:42:09,667 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-06-24 12:42:09,667 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 192.168.1.2:18082_true,
+
+2020-06-24 14:43:32,360 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9091@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1592980996733
+
+2020-06-24 14:43:35,090 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:18082@DEFAULT@DEFAULT_GROUP@@storage-service, region: unknown, msg: client timeout after 15000, last beat: 1592980995478
+
+2020-06-24 14:43:47,365 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-24 14:43:47,365 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2020-06-24 14:43:50,094 INFO DEFAULT_GROUP@@storage-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:18082:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-06-24 14:43:50,094 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@storage-service, ips: 
+

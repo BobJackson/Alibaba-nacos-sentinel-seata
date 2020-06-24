@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: storage-service
+  cloud:
+    alibaba:
+      seata:
+        tx-service-group: 'my_test_tx_group'

@@ -1,0 +1,118 @@
+2020-06-24 11:31:01,684 INFO DEFAULT_GROUP@@seata-server is changed, add it to push queue.
+
+2020-06-24 11:49:22,739 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:49:57,741 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:50:12,895 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:50:37,320 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:54:46,165 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:55:09,160 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:57:12,901 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:57:15,836 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 11:57:20,835 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:09:30,530 INFO DEFAULT_GROUP@@seata-server is changed, add it to push queue.
+
+2020-06-24 12:09:30,533 INFO serviceName: DEFAULT_GROUP@@seata-server changed, schedule push for: 192.168.1.2:61774, agent: Nacos-Java-Client:v1.2.1, key: 192.168.1.2,61774,5945172818062
+
+2020-06-24 12:09:30,535 INFO send udp packet: 192.168.1.2,61774,5945172818062
+
+2020-06-24 12:09:30,552 INFO received ack: {"type": "push-ack", "lastRefTime":"5945172818062", "data":""} from: 192.168.1.2:61774, cost: 18 ms, unacked: 0, total push: 1
+
+2020-06-24 12:10:17,034 INFO DEFAULT_GROUP@@seata-server is changed, add it to push queue.
+
+2020-06-24 12:10:17,036 INFO serviceName: DEFAULT_GROUP@@seata-server changed, schedule push for: 192.168.1.2:61774, agent: Nacos-Java-Client:v1.2.1, key: 192.168.1.2,61774,5991677132558
+
+2020-06-24 12:10:17,038 INFO send udp packet: 192.168.1.2,61774,5991677132558
+
+2020-06-24 12:10:17,053 INFO received ack: {"type": "push-ack", "lastRefTime":"5991677132558", "data":""} from: 192.168.1.2:61774, cost: 15 ms, unacked: 0, total push: 2
+
+2020-06-24 12:10:57,942 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:10:59,341 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:11:04,343 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:19:30,663 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:37:23,025 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:37:25,716 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:37:32,603 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:37:37,604 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:37:37,848 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:37:42,846 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:38:18,027 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:38:24,097 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:38:43,028 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:38:53,572 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:39:10,720 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:39:10,723 INFO serviceName: DEFAULT_GROUP@@storage-service changed, schedule push for: 192.168.1.2:51043, agent: Nacos-Java-Client:v1.2.1, key: 192.168.1.2,51043,7725363581888
+
+2020-06-24 12:39:10,725 INFO send udp packet: 192.168.1.2,51043,7725363581888
+
+2020-06-24 12:39:10,736 INFO received ack: {"type": "push-ack", "lastRefTime":"7725363581888", "data":""} from: 192.168.1.2:51043, cost: 11 ms, unacked: 0, total push: 3
+
+2020-06-24 12:39:25,742 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:39:25,744 INFO serviceName: DEFAULT_GROUP@@storage-service changed, schedule push for: 192.168.1.2:51043, agent: Nacos-Java-Client:v1.2.1, key: 192.168.1.2,51043,7740384742531
+
+2020-06-24 12:39:25,745 INFO send udp packet: 192.168.1.2,51043,7740384742531
+
+2020-06-24 12:39:25,752 INFO received ack: {"type": "push-ack", "lastRefTime":"7740384742531", "data":""} from: 192.168.1.2:51043, cost: 8 ms, unacked: 0, total push: 4
+
+2020-06-24 12:40:30,934 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:40:30,968 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:40:30,969 INFO serviceName: DEFAULT_GROUP@@storage-service changed, schedule push for: 192.168.1.2:51043, agent: Nacos-Java-Client:v1.2.1, key: 192.168.1.2,51043,7805610342802
+
+2020-06-24 12:40:30,970 INFO send udp packet: 192.168.1.2,51043,7805610342802
+
+2020-06-24 12:40:40,971 INFO retry to push data, key: 192.168.1.2,51043,7805610342802
+
+2020-06-24 12:40:40,972 INFO send udp packet: 192.168.1.2,51043,7805610342802
+
+2020-06-24 12:40:49,690 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:40:50,974 INFO retry to push data, key: 192.168.1.2,51043,7805610342802
+
+2020-06-24 12:40:50,975 WARN max re-push times reached, retry times 2, key: 192.168.1.2,51043,7805610342802
+
+2020-06-24 12:40:52,193 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:41:50,745 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:41:53,037 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:42:05,782 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 12:42:08,040 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 12:42:10,667 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 14:43:33,361 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 14:43:36,091 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+
+2020-06-24 14:43:48,365 INFO DEFAULT_GROUP@@order-service is changed, add it to push queue.
+
+2020-06-24 14:43:51,094 INFO DEFAULT_GROUP@@storage-service is changed, add it to push queue.
+

@@ -1,0 +1,15 @@
+server:
+  port: 18082
+
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:3306/seata_storage?allowMultiQueries=true
+      driver-class-name: com.mysql.jdbc.Driver
+      username: root
+      password: 123456
+
+logging:
+  level:
+    io.seata:
+      debug

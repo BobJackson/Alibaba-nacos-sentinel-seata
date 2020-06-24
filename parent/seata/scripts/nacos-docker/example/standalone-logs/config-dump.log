@@ -1,0 +1,656 @@
+2020-06-23 00:03:29,959 INFO [dump-all-ok] sentinel-service-local.yaml+DEFAULT_GROUP, 1592746448315, length=40, md5=f180443c5686be67a4050cbdacc3c89a
+
+2020-06-23 00:03:29,968 INFO [dump-all-ok] sentinel-service+DEFAULT_GROUP, 1592748000054, length=204, md5=20b5a1c2a4935575daabf2c090f13d5e
+
+2020-06-23 14:43:40,021 INFO [dump-all-ok] sentinel-service-local.yaml+DEFAULT_GROUP, 1592746448315, length=40, md5=f180443c5686be67a4050cbdacc3c89a
+
+2020-06-23 14:43:40,023 INFO [dump-all-ok] sentinel-service+DEFAULT_GROUP, 1592748000054, length=204, md5=20b5a1c2a4935575daabf2c090f13d5e
+
+2020-06-23 18:04:16,145 WARN [dump-ignore] ignore to save cache file. groupKey=transport.type+SEATA_GROUP, md5=b136ef5f6a01d816991fe3cf7a6ac763, lastModifiedOld=1592906504689, lastModifiedNew=1592906656086
+
+2020-06-23 18:04:16,250 WARN [dump-ignore] ignore to save cache file. groupKey=transport.heartbeat+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906504891, lastModifiedNew=1592906656229
+
+2020-06-23 18:04:16,267 WARN [dump-ignore] ignore to save cache file. groupKey=transport.server+SEATA_GROUP, md5=b6d9dfc0fb54277321cebc0fff55df2f, lastModifiedOld=1592906504819, lastModifiedNew=1592906656172
+
+2020-06-23 18:04:16,370 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-prefix+SEATA_GROUP, md5=0f8db59a3b7f2823f38a70c308361836, lastModifiedOld=1592906504951, lastModifiedNew=1592906656285
+
+2020-06-23 18:04:16,372 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-prefix+SEATA_GROUP, md5=a78ec7ef5d1631754c4e72ae8a3e9205, lastModifiedOld=1592906505021, lastModifiedNew=1592906656339
+
+2020-06-23 18:04:16,474 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.share-boss-worker+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505130, lastModifiedNew=1592906656450
+
+2020-06-23 18:04:16,475 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.server-executor-thread-prefix+SEATA_GROUP, md5=11a36309f3d9df84fa8b59cf071fa2da, lastModifiedOld=1592906505078, lastModifiedNew=1592906656392
+
+2020-06-23 18:04:16,577 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-prefix+SEATA_GROUP, md5=cd7ec5a06541e75f5a7913752322c3af, lastModifiedOld=1592906505183, lastModifiedNew=1592906656506
+
+2020-06-23 18:04:16,580 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505236, lastModifiedNew=1592906656559
+
+2020-06-23 18:04:16,682 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-worker-thread-prefix+SEATA_GROUP, md5=61cf4e69a56354cf72f46dc86414a57e, lastModifiedOld=1592906505288, lastModifiedNew=1592906656614
+
+2020-06-23 18:04:16,684 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505345, lastModifiedNew=1592906656668
+
+2020-06-23 18:04:16,786 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-size+SEATA_GROUP, md5=c9f0f895fb98ab9159f51fd0297e236d, lastModifiedOld=1592906505403, lastModifiedNew=1592906656722
+
+2020-06-23 18:04:16,789 WARN [dump-ignore] ignore to save cache file. groupKey=transport.shutdown.wait+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906505455, lastModifiedNew=1592906656776
+
+2020-06-23 18:04:16,993 WARN [dump-ignore] ignore to save cache file. groupKey=service.enableDegrade+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505564, lastModifiedNew=1592906656941
+
+2020-06-23 18:04:17,095 WARN [dump-ignore] ignore to save cache file. groupKey=service.disable+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505614, lastModifiedNew=1592906656994
+
+2020-06-23 18:04:17,097 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.commit.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505668, lastModifiedNew=1592906657047
+
+2020-06-23 18:04:17,199 WARN [dump-ignore] ignore to save cache file. groupKey=client.async.commit.buffer.limit+SEATA_GROUP, md5=b7a782741f667201b54880c925faec4b, lastModifiedOld=1592906505783, lastModifiedNew=1592906657163
+
+2020-06-23 18:04:17,201 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.rollback.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505723, lastModifiedNew=1592906657105
+
+2020-06-23 18:04:17,303 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.internal+SEATA_GROUP, md5=d3d9446802a44259755d38e6d163e820, lastModifiedOld=1592906505842, lastModifiedNew=1592906657215
+
+2020-06-23 18:04:17,305 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.times+SEATA_GROUP, md5=34173cb38f07f89ddbebc2ac9128303f, lastModifiedOld=1592906505892, lastModifiedNew=1592906657265
+
+2020-06-23 18:04:17,407 WARN [dump-ignore] ignore to save cache file. groupKey=store.mode+SEATA_GROUP, md5=8c7dd922ad47494fc02c388e12c00eac, lastModifiedOld=1592906505951, lastModifiedNew=1592906657324
+
+2020-06-23 18:04:17,409 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.dir+SEATA_GROUP, md5=6a8dec07c44c33a8a9247cba5710bbb2, lastModifiedOld=1592906506005, lastModifiedNew=1592906657382
+
+2020-06-23 18:04:17,512 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-global-session-size+SEATA_GROUP, md5=10a7cdd970fe135cf4f7bb55c0e3b59f, lastModifiedOld=1592906506111, lastModifiedNew=1592906657490
+
+2020-06-23 18:04:17,514 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-branch-session-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506059, lastModifiedNew=1592906657438
+
+2020-06-23 18:04:17,616 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.file-write-buffer-cache-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506168, lastModifiedNew=1592906657549
+
+2020-06-23 18:04:17,618 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.flush-disk-mode+SEATA_GROUP, md5=0df93e34273b367bb63bad28c94c78d5, lastModifiedOld=1592906506229, lastModifiedNew=1592906657608
+
+2020-06-23 18:04:17,720 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.datasource+SEATA_GROUP, md5=3a9f384fb40c59fbdc67024ee97d94b1, lastModifiedOld=1592906506333, lastModifiedNew=1592906657714
+
+2020-06-23 18:04:17,721 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.session.reload.read_size+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506284, lastModifiedNew=1592906657663
+
+2020-06-23 18:04:17,823 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.db-type+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506384, lastModifiedNew=1592906657772
+
+2020-06-23 18:04:17,925 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.url+SEATA_GROUP, md5=cbb3bd573704f125fb4f2489208abaec, lastModifiedOld=1592906506433, lastModifiedNew=1592906657821
+
+2020-06-23 18:04:17,927 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.user+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506490, lastModifiedNew=1592906657875
+
+2020-06-23 18:04:18,029 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.password+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506543, lastModifiedNew=1592906657930
+
+2020-06-23 18:04:18,031 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.min-conn+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906506595, lastModifiedNew=1592906657986
+
+2020-06-23 18:04:18,134 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.global.table+SEATA_GROUP, md5=8b28fb6bb4c4f984df2709381f8eba2b, lastModifiedOld=1592906506694, lastModifiedNew=1592906658089
+
+2020-06-23 18:04:18,136 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.max-conn+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906506642, lastModifiedNew=1592906658038
+
+2020-06-23 18:04:18,238 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.query-limit+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506790, lastModifiedNew=1592906658192
+
+2020-06-23 18:04:18,240 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.branch.table+SEATA_GROUP, md5=54bcdac38cf62e103fe115bcf46a660c, lastModifiedOld=1592906506743, lastModifiedNew=1592906658140
+
+2020-06-23 18:04:18,342 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.lock-table+SEATA_GROUP, md5=55e0cae3b6dc6696b768db90098b8f2f, lastModifiedOld=1592906506844, lastModifiedNew=1592906658242
+
+2020-06-23 18:04:18,344 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506904, lastModifiedNew=1592906658293
+
+2020-06-23 18:04:18,446 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.rollbacking-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507011, lastModifiedNew=1592906658395
+
+2020-06-23 18:04:18,448 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.asyn-committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506959, lastModifiedNew=1592906658345
+
+2020-06-23 18:04:18,550 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.data.validation+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906507110, lastModifiedNew=1592906658499
+
+2020-06-23 18:04:18,552 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.timeout-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507060, lastModifiedNew=1592906658449
+
+2020-06-23 18:04:18,655 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.save.days+SEATA_GROUP, md5=8f14e45fceea167a5a36dedd4bea2543, lastModifiedOld=1592906507210, lastModifiedNew=1592906658599
+
+2020-06-23 18:04:18,657 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.serialization+SEATA_GROUP, md5=b41779690b83f182acc67d6388c7bac9, lastModifiedOld=1592906507161, lastModifiedNew=1592906658547
+
+2020-06-23 18:04:18,758 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.table+SEATA_GROUP, md5=2842d229c24afe9e61437135e8306614, lastModifiedOld=1592906507319, lastModifiedNew=1592906658721
+
+2020-06-23 18:04:18,761 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.delete.period+SEATA_GROUP, md5=f4c122804fe9076cb2710f55c3c6e346, lastModifiedOld=1592906507265, lastModifiedNew=1592906658670
+
+2020-06-23 18:04:18,863 WARN [dump-ignore] ignore to save cache file. groupKey=transport.serialization+SEATA_GROUP, md5=b943081c423b9a5416a706524ee05d40, lastModifiedOld=1592906507372, lastModifiedNew=1592906658774
+
+2020-06-23 18:04:18,865 WARN [dump-ignore] ignore to save cache file. groupKey=transport.compressor+SEATA_GROUP, md5=334c4a4c42fdb79d7ebc3e73b517e6f8, lastModifiedOld=1592906507423, lastModifiedNew=1592906658829
+
+2020-06-23 18:04:18,967 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.enabled+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906507474, lastModifiedNew=1592906658883
+
+2020-06-23 18:04:18,969 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.registry-type+SEATA_GROUP, md5=7cf74ca49c304df8150205fc915cd465, lastModifiedOld=1592906507524, lastModifiedNew=1592906658936
+
+2020-06-23 18:04:19,071 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-prometheus-port+SEATA_GROUP, md5=7b9dc501afe4ee11c56a4831e20cee71, lastModifiedOld=1592906507623, lastModifiedNew=1592906659039
+
+2020-06-23 18:04:19,073 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-list+SEATA_GROUP, md5=e4f00638b8a10e6994e67af2f832d51c, lastModifiedOld=1592906507574, lastModifiedNew=1592906658988
+
+2020-06-23 18:28:58,871 WARN [dump-ignore] ignore to save cache file. groupKey=transport.type+SEATA_GROUP, md5=b136ef5f6a01d816991fe3cf7a6ac763, lastModifiedOld=1592906504689, lastModifiedNew=1592908138775
+
+2020-06-23 18:28:58,873 WARN [dump-ignore] ignore to save cache file. groupKey=transport.server+SEATA_GROUP, md5=b6d9dfc0fb54277321cebc0fff55df2f, lastModifiedOld=1592906504819, lastModifiedNew=1592908138825
+
+2020-06-23 18:28:58,975 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-prefix+SEATA_GROUP, md5=0f8db59a3b7f2823f38a70c308361836, lastModifiedOld=1592906504951, lastModifiedNew=1592908138931
+
+2020-06-23 18:28:58,977 WARN [dump-ignore] ignore to save cache file. groupKey=transport.heartbeat+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906504891, lastModifiedNew=1592908138880
+
+2020-06-23 18:28:59,079 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-prefix+SEATA_GROUP, md5=a78ec7ef5d1631754c4e72ae8a3e9205, lastModifiedOld=1592906505021, lastModifiedNew=1592908138981
+
+2020-06-23 18:28:59,081 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.server-executor-thread-prefix+SEATA_GROUP, md5=11a36309f3d9df84fa8b59cf071fa2da, lastModifiedOld=1592906505078, lastModifiedNew=1592908139035
+
+2020-06-23 18:28:59,183 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.share-boss-worker+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505130, lastModifiedNew=1592908139085
+
+2020-06-23 18:28:59,186 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-prefix+SEATA_GROUP, md5=cd7ec5a06541e75f5a7913752322c3af, lastModifiedOld=1592906505183, lastModifiedNew=1592908139134
+
+2020-06-23 18:28:59,288 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-worker-thread-prefix+SEATA_GROUP, md5=61cf4e69a56354cf72f46dc86414a57e, lastModifiedOld=1592906505288, lastModifiedNew=1592908139236
+
+2020-06-23 18:28:59,291 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505236, lastModifiedNew=1592908139185
+
+2020-06-23 18:28:59,292 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505345, lastModifiedNew=1592908139283
+
+2020-06-23 18:28:59,394 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-size+SEATA_GROUP, md5=c9f0f895fb98ab9159f51fd0297e236d, lastModifiedOld=1592906505403, lastModifiedNew=1592908139332
+
+2020-06-23 18:28:59,396 WARN [dump-ignore] ignore to save cache file. groupKey=transport.shutdown.wait+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906505455, lastModifiedNew=1592908139378
+
+2020-06-23 18:28:59,498 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.order-service-group+SEATA_GROUP, md5=c21f969b5f03d33d43e04f8f136e7682, lastModifiedOld=1592906656879, lastModifiedNew=1592908139477
+
+2020-06-23 18:28:59,500 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.storage-service-group+SEATA_GROUP, md5=c21f969b5f03d33d43e04f8f136e7682, lastModifiedOld=1592906656830, lastModifiedNew=1592908139425
+
+2020-06-23 18:28:59,602 WARN [dump-ignore] ignore to save cache file. groupKey=service.disable+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505614, lastModifiedNew=1592908139578
+
+2020-06-23 18:28:59,603 WARN [dump-ignore] ignore to save cache file. groupKey=service.enableDegrade+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505564, lastModifiedNew=1592908139530
+
+2020-06-23 18:28:59,707 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.commit.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505668, lastModifiedNew=1592908139627
+
+2020-06-23 18:28:59,710 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.rollback.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505723, lastModifiedNew=1592908139675
+
+2020-06-23 18:28:59,812 WARN [dump-ignore] ignore to save cache file. groupKey=client.async.commit.buffer.limit+SEATA_GROUP, md5=b7a782741f667201b54880c925faec4b, lastModifiedOld=1592906505783, lastModifiedNew=1592908139724
+
+2020-06-23 18:28:59,814 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.internal+SEATA_GROUP, md5=d3d9446802a44259755d38e6d163e820, lastModifiedOld=1592906505842, lastModifiedNew=1592908139772
+
+2020-06-23 18:28:59,916 WARN [dump-ignore] ignore to save cache file. groupKey=store.mode+SEATA_GROUP, md5=8c7dd922ad47494fc02c388e12c00eac, lastModifiedOld=1592906505951, lastModifiedNew=1592908139868
+
+2020-06-23 18:28:59,918 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.times+SEATA_GROUP, md5=34173cb38f07f89ddbebc2ac9128303f, lastModifiedOld=1592906505892, lastModifiedNew=1592908139823
+
+2020-06-23 18:29:00,025 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.dir+SEATA_GROUP, md5=6a8dec07c44c33a8a9247cba5710bbb2, lastModifiedOld=1592906506005, lastModifiedNew=1592908139917
+
+2020-06-23 18:29:00,026 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-branch-session-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506059, lastModifiedNew=1592908139978
+
+2020-06-23 18:29:00,128 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-global-session-size+SEATA_GROUP, md5=10a7cdd970fe135cf4f7bb55c0e3b59f, lastModifiedOld=1592906506111, lastModifiedNew=1592908140033
+
+2020-06-23 18:29:00,130 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.file-write-buffer-cache-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506168, lastModifiedNew=1592908140078
+
+2020-06-23 18:29:00,232 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.datasource+SEATA_GROUP, md5=3a9f384fb40c59fbdc67024ee97d94b1, lastModifiedOld=1592906506333, lastModifiedNew=1592908140218
+
+2020-06-23 18:29:00,234 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.session.reload.read_size+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506284, lastModifiedNew=1592908140176
+
+2020-06-23 18:29:00,238 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.flush-disk-mode+SEATA_GROUP, md5=0df93e34273b367bb63bad28c94c78d5, lastModifiedOld=1592906506229, lastModifiedNew=1592908140134
+
+2020-06-23 18:29:00,340 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.db-type+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506384, lastModifiedNew=1592908140265
+
+2020-06-23 18:29:00,341 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.url+SEATA_GROUP, md5=cbb3bd573704f125fb4f2489208abaec, lastModifiedOld=1592906506433, lastModifiedNew=1592908140311
+
+2020-06-23 18:29:00,444 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.user+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506490, lastModifiedNew=1592908140366
+
+2020-06-23 18:29:00,545 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.max-conn+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906506642, lastModifiedNew=1592908140505
+
+2020-06-23 18:29:00,547 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.min-conn+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906506595, lastModifiedNew=1592908140461
+
+2020-06-23 18:29:00,649 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.global.table+SEATA_GROUP, md5=8b28fb6bb4c4f984df2709381f8eba2b, lastModifiedOld=1592906506694, lastModifiedNew=1592908140550
+
+2020-06-23 18:29:00,651 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.query-limit+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506790, lastModifiedNew=1592908140639
+
+2020-06-23 18:29:00,653 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.branch.table+SEATA_GROUP, md5=54bcdac38cf62e103fe115bcf46a660c, lastModifiedOld=1592906506743, lastModifiedNew=1592908140594
+
+2020-06-23 18:29:00,754 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.lock-table+SEATA_GROUP, md5=55e0cae3b6dc6696b768db90098b8f2f, lastModifiedOld=1592906506844, lastModifiedNew=1592908140686
+
+2020-06-23 18:29:00,756 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506904, lastModifiedNew=1592908140732
+
+2020-06-23 18:29:00,857 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.rollbacking-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507011, lastModifiedNew=1592908140820
+
+2020-06-23 18:29:00,859 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.asyn-committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506959, lastModifiedNew=1592908140777
+
+2020-06-23 18:29:00,961 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.data.validation+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906507110, lastModifiedNew=1592908140914
+
+2020-06-23 18:29:00,963 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.timeout-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507060, lastModifiedNew=1592908140868
+
+2020-06-23 18:29:01,064 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.save.days+SEATA_GROUP, md5=8f14e45fceea167a5a36dedd4bea2543, lastModifiedOld=1592906507210, lastModifiedNew=1592908141008
+
+2020-06-23 18:29:01,067 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.serialization+SEATA_GROUP, md5=b41779690b83f182acc67d6388c7bac9, lastModifiedOld=1592906507161, lastModifiedNew=1592908140962
+
+2020-06-23 18:29:01,068 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.delete.period+SEATA_GROUP, md5=f4c122804fe9076cb2710f55c3c6e346, lastModifiedOld=1592906507265, lastModifiedNew=1592908141054
+
+2020-06-23 18:29:01,170 WARN [dump-ignore] ignore to save cache file. groupKey=transport.serialization+SEATA_GROUP, md5=b943081c423b9a5416a706524ee05d40, lastModifiedOld=1592906507372, lastModifiedNew=1592908141155
+
+2020-06-23 18:29:01,171 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.table+SEATA_GROUP, md5=2842d229c24afe9e61437135e8306614, lastModifiedOld=1592906507319, lastModifiedNew=1592908141103
+
+2020-06-23 18:29:01,273 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.enabled+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906507474, lastModifiedNew=1592908141249
+
+2020-06-23 18:29:01,275 WARN [dump-ignore] ignore to save cache file. groupKey=transport.compressor+SEATA_GROUP, md5=334c4a4c42fdb79d7ebc3e73b517e6f8, lastModifiedOld=1592906507423, lastModifiedNew=1592908141203
+
+2020-06-23 18:29:01,377 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.registry-type+SEATA_GROUP, md5=7cf74ca49c304df8150205fc915cd465, lastModifiedOld=1592906507524, lastModifiedNew=1592908141293
+
+2020-06-23 18:29:01,378 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-list+SEATA_GROUP, md5=e4f00638b8a10e6994e67af2f832d51c, lastModifiedOld=1592906507574, lastModifiedNew=1592908141336
+
+2020-06-23 18:29:01,480 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-prometheus-port+SEATA_GROUP, md5=7b9dc501afe4ee11c56a4831e20cee71, lastModifiedOld=1592906507623, lastModifiedNew=1592908141383
+
+2020-06-23 19:14:51,239 WARN [dump-ignore] ignore to save cache file. groupKey=transport.type+SEATA_GROUP, md5=b136ef5f6a01d816991fe3cf7a6ac763, lastModifiedOld=1592906504689, lastModifiedNew=1592910891129
+
+2020-06-23 19:14:51,241 WARN [dump-ignore] ignore to save cache file. groupKey=transport.server+SEATA_GROUP, md5=b6d9dfc0fb54277321cebc0fff55df2f, lastModifiedOld=1592906504819, lastModifiedNew=1592910891190
+
+2020-06-23 19:14:51,344 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-prefix+SEATA_GROUP, md5=0f8db59a3b7f2823f38a70c308361836, lastModifiedOld=1592906504951, lastModifiedNew=1592910891286
+
+2020-06-23 19:14:51,347 WARN [dump-ignore] ignore to save cache file. groupKey=transport.heartbeat+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906504891, lastModifiedNew=1592910891238
+
+2020-06-23 19:14:51,348 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-prefix+SEATA_GROUP, md5=a78ec7ef5d1631754c4e72ae8a3e9205, lastModifiedOld=1592906505021, lastModifiedNew=1592910891338
+
+2020-06-23 19:14:51,457 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.share-boss-worker+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505130, lastModifiedNew=1592910891439
+
+2020-06-23 19:14:51,459 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.server-executor-thread-prefix+SEATA_GROUP, md5=11a36309f3d9df84fa8b59cf071fa2da, lastModifiedOld=1592906505078, lastModifiedNew=1592910891388
+
+2020-06-23 19:14:51,561 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-prefix+SEATA_GROUP, md5=cd7ec5a06541e75f5a7913752322c3af, lastModifiedOld=1592906505183, lastModifiedNew=1592910891491
+
+2020-06-23 19:14:51,562 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505236, lastModifiedNew=1592910891539
+
+2020-06-23 19:14:51,664 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-worker-thread-prefix+SEATA_GROUP, md5=61cf4e69a56354cf72f46dc86414a57e, lastModifiedOld=1592906505288, lastModifiedNew=1592910891591
+
+2020-06-23 19:14:51,665 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505345, lastModifiedNew=1592910891641
+
+2020-06-23 19:14:51,767 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-size+SEATA_GROUP, md5=c9f0f895fb98ab9159f51fd0297e236d, lastModifiedOld=1592906505403, lastModifiedNew=1592910891693
+
+2020-06-23 19:14:51,769 WARN [dump-ignore] ignore to save cache file. groupKey=transport.shutdown.wait+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906505455, lastModifiedNew=1592910891741
+
+2020-06-23 19:14:51,871 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.order-service-group+SEATA_GROUP, md5=c21f969b5f03d33d43e04f8f136e7682, lastModifiedOld=1592906656879, lastModifiedNew=1592910891837
+
+2020-06-23 19:14:51,873 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.storage-service-group+SEATA_GROUP, md5=c21f969b5f03d33d43e04f8f136e7682, lastModifiedOld=1592906656830, lastModifiedNew=1592910891789
+
+2020-06-23 19:14:51,975 WARN [dump-ignore] ignore to save cache file. groupKey=service.disable+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505614, lastModifiedNew=1592910891940
+
+2020-06-23 19:14:51,976 WARN [dump-ignore] ignore to save cache file. groupKey=service.enableDegrade+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505564, lastModifiedNew=1592910891889
+
+2020-06-23 19:14:52,078 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.commit.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505668, lastModifiedNew=1592910892002
+
+2020-06-23 19:14:52,080 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.rollback.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505723, lastModifiedNew=1592910892049
+
+2020-06-23 19:14:52,181 WARN [dump-ignore] ignore to save cache file. groupKey=client.async.commit.buffer.limit+SEATA_GROUP, md5=b7a782741f667201b54880c925faec4b, lastModifiedOld=1592906505783, lastModifiedNew=1592910892099
+
+2020-06-23 19:14:52,183 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.internal+SEATA_GROUP, md5=d3d9446802a44259755d38e6d163e820, lastModifiedOld=1592906505842, lastModifiedNew=1592910892150
+
+2020-06-23 19:14:52,285 WARN [dump-ignore] ignore to save cache file. groupKey=store.mode+SEATA_GROUP, md5=8c7dd922ad47494fc02c388e12c00eac, lastModifiedOld=1592906505951, lastModifiedNew=1592910892248
+
+2020-06-23 19:14:52,286 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.times+SEATA_GROUP, md5=34173cb38f07f89ddbebc2ac9128303f, lastModifiedOld=1592906505892, lastModifiedNew=1592910892202
+
+2020-06-23 19:14:52,388 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.dir+SEATA_GROUP, md5=6a8dec07c44c33a8a9247cba5710bbb2, lastModifiedOld=1592906506005, lastModifiedNew=1592910892295
+
+2020-06-23 19:14:52,390 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-branch-session-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506059, lastModifiedNew=1592910892344
+
+2020-06-23 19:14:52,491 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-global-session-size+SEATA_GROUP, md5=10a7cdd970fe135cf4f7bb55c0e3b59f, lastModifiedOld=1592906506111, lastModifiedNew=1592910892402
+
+2020-06-23 19:14:52,492 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.file-write-buffer-cache-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506168, lastModifiedNew=1592910892453
+
+2020-06-23 19:14:52,595 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.session.reload.read_size+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506284, lastModifiedNew=1592910892548
+
+2020-06-23 19:14:52,596 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.flush-disk-mode+SEATA_GROUP, md5=0df93e34273b367bb63bad28c94c78d5, lastModifiedOld=1592906506229, lastModifiedNew=1592910892502
+
+2020-06-23 19:14:52,704 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.datasource+SEATA_GROUP, md5=3a9f384fb40c59fbdc67024ee97d94b1, lastModifiedOld=1592906506333, lastModifiedNew=1592910892593
+
+2020-06-23 19:14:52,706 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.db-type+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506384, lastModifiedNew=1592910892648
+
+2020-06-23 19:14:52,708 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.url+SEATA_GROUP, md5=cbb3bd573704f125fb4f2489208abaec, lastModifiedOld=1592906506433, lastModifiedNew=1592910892696
+
+2020-06-23 19:14:52,809 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.password+SEATA_GROUP, md5=e10adc3949ba59abbe56e057f20f883e, lastModifiedOld=1592908140410, lastModifiedNew=1592910892791
+
+2020-06-23 19:14:52,912 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.max-conn+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906506642, lastModifiedNew=1592910892892
+
+2020-06-23 19:14:52,914 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.min-conn+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906506595, lastModifiedNew=1592910892842
+
+2020-06-23 19:14:53,016 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.global.table+SEATA_GROUP, md5=8b28fb6bb4c4f984df2709381f8eba2b, lastModifiedOld=1592906506694, lastModifiedNew=1592910892943
+
+2020-06-23 19:14:53,018 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.branch.table+SEATA_GROUP, md5=54bcdac38cf62e103fe115bcf46a660c, lastModifiedOld=1592906506743, lastModifiedNew=1592910892989
+
+2020-06-23 19:14:53,119 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.query-limit+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506790, lastModifiedNew=1592910893037
+
+2020-06-23 19:14:53,121 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.lock-table+SEATA_GROUP, md5=55e0cae3b6dc6696b768db90098b8f2f, lastModifiedOld=1592906506844, lastModifiedNew=1592910893084
+
+2020-06-23 19:14:53,223 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506904, lastModifiedNew=1592910893136
+
+2020-06-23 19:14:53,225 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.asyn-committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506959, lastModifiedNew=1592910893187
+
+2020-06-23 19:14:53,326 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.rollbacking-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507011, lastModifiedNew=1592910893235
+
+2020-06-23 19:14:53,327 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.timeout-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507060, lastModifiedNew=1592910893281
+
+2020-06-23 19:14:53,429 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.data.validation+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906507110, lastModifiedNew=1592910893325
+
+2020-06-23 19:14:53,430 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.save.days+SEATA_GROUP, md5=8f14e45fceea167a5a36dedd4bea2543, lastModifiedOld=1592906507210, lastModifiedNew=1592910893416
+
+2020-06-23 19:14:53,432 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.serialization+SEATA_GROUP, md5=b41779690b83f182acc67d6388c7bac9, lastModifiedOld=1592906507161, lastModifiedNew=1592910893370
+
+2020-06-23 19:14:53,533 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.table+SEATA_GROUP, md5=2842d229c24afe9e61437135e8306614, lastModifiedOld=1592906507319, lastModifiedNew=1592910893517
+
+2020-06-23 19:14:53,534 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.delete.period+SEATA_GROUP, md5=f4c122804fe9076cb2710f55c3c6e346, lastModifiedOld=1592906507265, lastModifiedNew=1592910893468
+
+2020-06-23 19:14:53,635 WARN [dump-ignore] ignore to save cache file. groupKey=transport.serialization+SEATA_GROUP, md5=b943081c423b9a5416a706524ee05d40, lastModifiedOld=1592906507372, lastModifiedNew=1592910893563
+
+2020-06-23 19:14:53,637 WARN [dump-ignore] ignore to save cache file. groupKey=transport.compressor+SEATA_GROUP, md5=334c4a4c42fdb79d7ebc3e73b517e6f8, lastModifiedOld=1592906507423, lastModifiedNew=1592910893621
+
+2020-06-23 19:14:53,738 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.enabled+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906507474, lastModifiedNew=1592910893667
+
+2020-06-23 19:14:53,741 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.registry-type+SEATA_GROUP, md5=7cf74ca49c304df8150205fc915cd465, lastModifiedOld=1592906507524, lastModifiedNew=1592910893718
+
+2020-06-23 19:14:53,842 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-prometheus-port+SEATA_GROUP, md5=7b9dc501afe4ee11c56a4831e20cee71, lastModifiedOld=1592906507623, lastModifiedNew=1592910893816
+
+2020-06-23 19:14:53,844 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-list+SEATA_GROUP, md5=e4f00638b8a10e6994e67af2f832d51c, lastModifiedOld=1592906507574, lastModifiedNew=1592910893770
+
+2020-06-23 19:18:29,362 WARN [dump-ignore] ignore to save cache file. groupKey=transport.type+SEATA_GROUP, md5=b136ef5f6a01d816991fe3cf7a6ac763, lastModifiedOld=1592906504689, lastModifiedNew=1592911109307
+
+2020-06-23 19:18:29,465 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-prefix+SEATA_GROUP, md5=0f8db59a3b7f2823f38a70c308361836, lastModifiedOld=1592906504951, lastModifiedNew=1592911109458
+
+2020-06-23 19:18:29,467 WARN [dump-ignore] ignore to save cache file. groupKey=transport.heartbeat+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906504891, lastModifiedNew=1592911109411
+
+2020-06-23 19:18:29,469 WARN [dump-ignore] ignore to save cache file. groupKey=transport.server+SEATA_GROUP, md5=b6d9dfc0fb54277321cebc0fff55df2f, lastModifiedOld=1592906504819, lastModifiedNew=1592911109362
+
+2020-06-23 19:18:29,570 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-prefix+SEATA_GROUP, md5=a78ec7ef5d1631754c4e72ae8a3e9205, lastModifiedOld=1592906505021, lastModifiedNew=1592911109508
+
+2020-06-23 19:18:29,576 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.server-executor-thread-prefix+SEATA_GROUP, md5=11a36309f3d9df84fa8b59cf071fa2da, lastModifiedOld=1592906505078, lastModifiedNew=1592911109557
+
+2020-06-23 19:18:29,677 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.share-boss-worker+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505130, lastModifiedNew=1592911109609
+
+2020-06-23 19:18:29,679 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-prefix+SEATA_GROUP, md5=cd7ec5a06541e75f5a7913752322c3af, lastModifiedOld=1592906505183, lastModifiedNew=1592911109659
+
+2020-06-23 19:18:29,780 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-worker-thread-prefix+SEATA_GROUP, md5=61cf4e69a56354cf72f46dc86414a57e, lastModifiedOld=1592906505288, lastModifiedNew=1592911109751
+
+2020-06-23 19:18:29,783 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505236, lastModifiedNew=1592911109704
+
+2020-06-23 19:18:29,884 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-size+SEATA_GROUP, md5=c9f0f895fb98ab9159f51fd0297e236d, lastModifiedOld=1592906505403, lastModifiedNew=1592911109845
+
+2020-06-23 19:18:29,886 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505345, lastModifiedNew=1592911109799
+
+2020-06-23 19:18:29,987 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.storage-service-group+SEATA_GROUP, md5=c21f969b5f03d33d43e04f8f136e7682, lastModifiedOld=1592906656830, lastModifiedNew=1592911109940
+
+2020-06-23 19:18:29,989 WARN [dump-ignore] ignore to save cache file. groupKey=transport.shutdown.wait+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906505455, lastModifiedNew=1592911109890
+
+2020-06-23 19:18:30,091 WARN [dump-ignore] ignore to save cache file. groupKey=service.disable+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505614, lastModifiedNew=1592911110086
+
+2020-06-23 19:18:30,093 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.order-service-group+SEATA_GROUP, md5=c21f969b5f03d33d43e04f8f136e7682, lastModifiedOld=1592906656879, lastModifiedNew=1592911109987
+
+2020-06-23 19:18:30,094 WARN [dump-ignore] ignore to save cache file. groupKey=service.enableDegrade+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505564, lastModifiedNew=1592911110035
+
+2020-06-23 19:18:30,196 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.commit.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505668, lastModifiedNew=1592911110135
+
+2020-06-23 19:18:30,205 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.rollback.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505723, lastModifiedNew=1592911110180
+
+2020-06-23 19:18:30,306 WARN [dump-ignore] ignore to save cache file. groupKey=client.async.commit.buffer.limit+SEATA_GROUP, md5=b7a782741f667201b54880c925faec4b, lastModifiedOld=1592906505783, lastModifiedNew=1592911110229
+
+2020-06-23 19:18:30,308 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.internal+SEATA_GROUP, md5=d3d9446802a44259755d38e6d163e820, lastModifiedOld=1592906505842, lastModifiedNew=1592911110277
+
+2020-06-23 19:18:30,411 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.times+SEATA_GROUP, md5=34173cb38f07f89ddbebc2ac9128303f, lastModifiedOld=1592906505892, lastModifiedNew=1592911110327
+
+2020-06-23 19:18:30,512 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.dir+SEATA_GROUP, md5=6a8dec07c44c33a8a9247cba5710bbb2, lastModifiedOld=1592906506005, lastModifiedNew=1592911110421
+
+2020-06-23 19:18:30,514 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-branch-session-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506059, lastModifiedNew=1592911110468
+
+2020-06-23 19:18:30,618 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-global-session-size+SEATA_GROUP, md5=10a7cdd970fe135cf4f7bb55c0e3b59f, lastModifiedOld=1592906506111, lastModifiedNew=1592911110515
+
+2020-06-23 19:18:30,620 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.file-write-buffer-cache-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506168, lastModifiedNew=1592911110563
+
+2020-06-23 19:18:30,621 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.flush-disk-mode+SEATA_GROUP, md5=0df93e34273b367bb63bad28c94c78d5, lastModifiedOld=1592906506229, lastModifiedNew=1592911110607
+
+2020-06-23 19:18:30,723 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.datasource+SEATA_GROUP, md5=3a9f384fb40c59fbdc67024ee97d94b1, lastModifiedOld=1592906506333, lastModifiedNew=1592911110708
+
+2020-06-23 19:18:30,727 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.session.reload.read_size+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506284, lastModifiedNew=1592911110656
+
+2020-06-23 19:18:30,830 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.db-type+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506384, lastModifiedNew=1592911110755
+
+2020-06-23 19:18:30,931 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.url+SEATA_GROUP, md5=cbb3bd573704f125fb4f2489208abaec, lastModifiedOld=1592906506433, lastModifiedNew=1592911110855
+
+2020-06-23 19:18:30,933 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.user+SEATA_GROUP, md5=63a9f0ea7bb98050796b649e85481845, lastModifiedOld=1592910892744, lastModifiedNew=1592911110900
+
+2020-06-23 19:18:31,035 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.password+SEATA_GROUP, md5=e10adc3949ba59abbe56e057f20f883e, lastModifiedOld=1592908140410, lastModifiedNew=1592911110945
+
+2020-06-23 19:18:31,038 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.min-conn+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906506595, lastModifiedNew=1592911110989
+
+2020-06-23 19:18:31,141 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.global.table+SEATA_GROUP, md5=8b28fb6bb4c4f984df2709381f8eba2b, lastModifiedOld=1592906506694, lastModifiedNew=1592911111081
+
+2020-06-23 19:18:31,144 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.max-conn+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906506642, lastModifiedNew=1592911111034
+
+2020-06-23 19:18:31,151 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.branch.table+SEATA_GROUP, md5=54bcdac38cf62e103fe115bcf46a660c, lastModifiedOld=1592906506743, lastModifiedNew=1592911111128
+
+2020-06-23 19:18:31,253 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.query-limit+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506790, lastModifiedNew=1592911111176
+
+2020-06-23 19:18:31,254 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.lock-table+SEATA_GROUP, md5=55e0cae3b6dc6696b768db90098b8f2f, lastModifiedOld=1592906506844, lastModifiedNew=1592911111222
+
+2020-06-23 19:18:31,356 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506904, lastModifiedNew=1592911111277
+
+2020-06-23 19:18:31,357 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.asyn-committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506959, lastModifiedNew=1592911111326
+
+2020-06-23 19:18:31,459 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.rollbacking-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507011, lastModifiedNew=1592911111373
+
+2020-06-23 19:18:31,461 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.timeout-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507060, lastModifiedNew=1592911111423
+
+2020-06-23 19:18:31,562 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.data.validation+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906507110, lastModifiedNew=1592911111470
+
+2020-06-23 19:18:31,563 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.serialization+SEATA_GROUP, md5=b41779690b83f182acc67d6388c7bac9, lastModifiedOld=1592906507161, lastModifiedNew=1592911111524
+
+2020-06-23 19:18:31,666 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.save.days+SEATA_GROUP, md5=8f14e45fceea167a5a36dedd4bea2543, lastModifiedOld=1592906507210, lastModifiedNew=1592911111576
+
+2020-06-23 19:18:31,667 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.delete.period+SEATA_GROUP, md5=f4c122804fe9076cb2710f55c3c6e346, lastModifiedOld=1592906507265, lastModifiedNew=1592911111622
+
+2020-06-23 19:18:31,769 WARN [dump-ignore] ignore to save cache file. groupKey=transport.serialization+SEATA_GROUP, md5=b943081c423b9a5416a706524ee05d40, lastModifiedOld=1592906507372, lastModifiedNew=1592911111716
+
+2020-06-23 19:18:31,770 WARN [dump-ignore] ignore to save cache file. groupKey=transport.compressor+SEATA_GROUP, md5=334c4a4c42fdb79d7ebc3e73b517e6f8, lastModifiedOld=1592906507423, lastModifiedNew=1592911111763
+
+2020-06-23 19:18:31,772 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.table+SEATA_GROUP, md5=2842d229c24afe9e61437135e8306614, lastModifiedOld=1592906507319, lastModifiedNew=1592911111670
+
+2020-06-23 19:18:31,874 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.enabled+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906507474, lastModifiedNew=1592911111812
+
+2020-06-23 19:18:31,976 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.registry-type+SEATA_GROUP, md5=7cf74ca49c304df8150205fc915cd465, lastModifiedOld=1592906507524, lastModifiedNew=1592911111870
+
+2020-06-23 19:18:31,977 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-prometheus-port+SEATA_GROUP, md5=7b9dc501afe4ee11c56a4831e20cee71, lastModifiedOld=1592906507623, lastModifiedNew=1592911111965
+
+2020-06-23 19:18:31,979 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-list+SEATA_GROUP, md5=e4f00638b8a10e6994e67af2f832d51c, lastModifiedOld=1592906507574, lastModifiedNew=1592911111916
+
+2020-06-23 19:36:02,698 WARN [dump-ignore] ignore to save cache file. groupKey=transport.type+SEATA_GROUP, md5=b136ef5f6a01d816991fe3cf7a6ac763, lastModifiedOld=1592906504689, lastModifiedNew=1592912162662
+
+2020-06-23 19:36:02,800 WARN [dump-ignore] ignore to save cache file. groupKey=transport.heartbeat+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906504891, lastModifiedNew=1592912162767
+
+2020-06-23 19:36:02,802 WARN [dump-ignore] ignore to save cache file. groupKey=transport.server+SEATA_GROUP, md5=b6d9dfc0fb54277321cebc0fff55df2f, lastModifiedOld=1592906504819, lastModifiedNew=1592912162718
+
+2020-06-23 19:36:02,904 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-prefix+SEATA_GROUP, md5=0f8db59a3b7f2823f38a70c308361836, lastModifiedOld=1592906504951, lastModifiedNew=1592912162818
+
+2020-06-23 19:36:02,907 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-prefix+SEATA_GROUP, md5=a78ec7ef5d1631754c4e72ae8a3e9205, lastModifiedOld=1592906505021, lastModifiedNew=1592912162868
+
+2020-06-23 19:36:03,009 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.share-boss-worker+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505130, lastModifiedNew=1592912162964
+
+2020-06-23 19:36:03,010 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.server-executor-thread-prefix+SEATA_GROUP, md5=11a36309f3d9df84fa8b59cf071fa2da, lastModifiedOld=1592906505078, lastModifiedNew=1592912162917
+
+2020-06-23 19:36:03,113 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-prefix+SEATA_GROUP, md5=cd7ec5a06541e75f5a7913752322c3af, lastModifiedOld=1592906505183, lastModifiedNew=1592912163014
+
+2020-06-23 19:36:03,114 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505236, lastModifiedNew=1592912163061
+
+2020-06-23 19:36:03,216 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-worker-thread-prefix+SEATA_GROUP, md5=61cf4e69a56354cf72f46dc86414a57e, lastModifiedOld=1592906505288, lastModifiedNew=1592912163111
+
+2020-06-23 19:36:03,217 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-size+SEATA_GROUP, md5=c9f0f895fb98ab9159f51fd0297e236d, lastModifiedOld=1592906505403, lastModifiedNew=1592912163208
+
+2020-06-23 19:36:03,219 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505345, lastModifiedNew=1592912163163
+
+2020-06-23 19:36:03,322 WARN [dump-ignore] ignore to save cache file. groupKey=transport.shutdown.wait+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906505455, lastModifiedNew=1592912163254
+
+2020-06-23 19:36:03,424 WARN [dump-ignore] ignore to save cache file. groupKey=service.disable+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505614, lastModifiedNew=1592912163397
+
+2020-06-23 19:36:03,425 WARN [dump-ignore] ignore to save cache file. groupKey=service.enableDegrade+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505564, lastModifiedNew=1592912163347
+
+2020-06-23 19:36:03,527 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.commit.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505668, lastModifiedNew=1592912163455
+
+2020-06-23 19:36:03,529 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.rollback.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505723, lastModifiedNew=1592912163501
+
+2020-06-23 19:36:03,631 WARN [dump-ignore] ignore to save cache file. groupKey=client.async.commit.buffer.limit+SEATA_GROUP, md5=b7a782741f667201b54880c925faec4b, lastModifiedOld=1592906505783, lastModifiedNew=1592912163554
+
+2020-06-23 19:36:03,633 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.internal+SEATA_GROUP, md5=d3d9446802a44259755d38e6d163e820, lastModifiedOld=1592906505842, lastModifiedNew=1592912163607
+
+2020-06-23 19:36:03,735 WARN [dump-ignore] ignore to save cache file. groupKey=store.mode+SEATA_GROUP, md5=d77d5e503ad1439f585ac494268b351b, lastModifiedOld=1592911110373, lastModifiedNew=1592912163713
+
+2020-06-23 19:36:03,737 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.times+SEATA_GROUP, md5=34173cb38f07f89ddbebc2ac9128303f, lastModifiedOld=1592906505892, lastModifiedNew=1592912163661
+
+2020-06-23 19:36:03,839 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.dir+SEATA_GROUP, md5=6a8dec07c44c33a8a9247cba5710bbb2, lastModifiedOld=1592906506005, lastModifiedNew=1592912163767
+
+2020-06-23 19:36:03,840 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-branch-session-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506059, lastModifiedNew=1592912163821
+
+2020-06-23 19:36:03,942 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-global-session-size+SEATA_GROUP, md5=10a7cdd970fe135cf4f7bb55c0e3b59f, lastModifiedOld=1592906506111, lastModifiedNew=1592912163870
+
+2020-06-23 19:36:03,944 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.file-write-buffer-cache-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506168, lastModifiedNew=1592912163921
+
+2020-06-23 19:36:04,052 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.session.reload.read_size+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506284, lastModifiedNew=1592912164025
+
+2020-06-23 19:36:04,056 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.flush-disk-mode+SEATA_GROUP, md5=0df93e34273b367bb63bad28c94c78d5, lastModifiedOld=1592906506229, lastModifiedNew=1592912163975
+
+2020-06-23 19:36:04,158 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.datasource+SEATA_GROUP, md5=3a9f384fb40c59fbdc67024ee97d94b1, lastModifiedOld=1592906506333, lastModifiedNew=1592912164094
+
+2020-06-23 19:36:04,259 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.driver-class-name+SEATA_GROUP, md5=683cf0c3a5a56cec94dfac94ca16d760, lastModifiedOld=1592911110801, lastModifiedNew=1592912164213
+
+2020-06-23 19:36:04,261 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.db-type+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506384, lastModifiedNew=1592912164148
+
+2020-06-23 19:36:04,363 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.url+SEATA_GROUP, md5=cbb3bd573704f125fb4f2489208abaec, lastModifiedOld=1592906506433, lastModifiedNew=1592912164266
+
+2020-06-23 19:36:04,365 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.user+SEATA_GROUP, md5=63a9f0ea7bb98050796b649e85481845, lastModifiedOld=1592910892744, lastModifiedNew=1592912164316
+
+2020-06-23 19:36:04,466 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.password+SEATA_GROUP, md5=e10adc3949ba59abbe56e057f20f883e, lastModifiedOld=1592908140410, lastModifiedNew=1592912164369
+
+2020-06-23 19:36:04,468 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.min-conn+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906506595, lastModifiedNew=1592912164420
+
+2020-06-23 19:36:04,572 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.global.table+SEATA_GROUP, md5=8b28fb6bb4c4f984df2709381f8eba2b, lastModifiedOld=1592906506694, lastModifiedNew=1592912164526
+
+2020-06-23 19:36:04,574 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.max-conn+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906506642, lastModifiedNew=1592912164474
+
+2020-06-23 19:36:04,675 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.query-limit+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506790, lastModifiedNew=1592912164623
+
+2020-06-23 19:36:04,677 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.lock-table+SEATA_GROUP, md5=55e0cae3b6dc6696b768db90098b8f2f, lastModifiedOld=1592906506844, lastModifiedNew=1592912164667
+
+2020-06-23 19:36:04,678 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.branch.table+SEATA_GROUP, md5=54bcdac38cf62e103fe115bcf46a660c, lastModifiedOld=1592906506743, lastModifiedNew=1592912164577
+
+2020-06-23 19:36:04,780 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506904, lastModifiedNew=1592912164717
+
+2020-06-23 19:36:04,783 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.asyn-committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506959, lastModifiedNew=1592912164771
+
+2020-06-23 19:36:04,886 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.rollbacking-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507011, lastModifiedNew=1592912164826
+
+2020-06-23 19:36:04,888 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.timeout-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507060, lastModifiedNew=1592912164871
+
+2020-06-23 19:36:04,990 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.data.validation+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906507110, lastModifiedNew=1592912164916
+
+2020-06-23 19:36:04,991 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.serialization+SEATA_GROUP, md5=b41779690b83f182acc67d6388c7bac9, lastModifiedOld=1592906507161, lastModifiedNew=1592912164965
+
+2020-06-23 19:36:05,092 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.save.days+SEATA_GROUP, md5=8f14e45fceea167a5a36dedd4bea2543, lastModifiedOld=1592906507210, lastModifiedNew=1592912165011
+
+2020-06-23 19:36:05,094 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.delete.period+SEATA_GROUP, md5=f4c122804fe9076cb2710f55c3c6e346, lastModifiedOld=1592906507265, lastModifiedNew=1592912165056
+
+2020-06-23 19:36:05,196 WARN [dump-ignore] ignore to save cache file. groupKey=transport.serialization+SEATA_GROUP, md5=b943081c423b9a5416a706524ee05d40, lastModifiedOld=1592906507372, lastModifiedNew=1592912165160
+
+2020-06-23 19:36:05,197 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.table+SEATA_GROUP, md5=2842d229c24afe9e61437135e8306614, lastModifiedOld=1592906507319, lastModifiedNew=1592912165107
+
+2020-06-23 19:36:05,298 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.enabled+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906507474, lastModifiedNew=1592912165265
+
+2020-06-23 19:36:05,300 WARN [dump-ignore] ignore to save cache file. groupKey=transport.compressor+SEATA_GROUP, md5=334c4a4c42fdb79d7ebc3e73b517e6f8, lastModifiedOld=1592906507423, lastModifiedNew=1592912165210
+
+2020-06-23 19:36:05,402 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.registry-type+SEATA_GROUP, md5=7cf74ca49c304df8150205fc915cd465, lastModifiedOld=1592906507524, lastModifiedNew=1592912165317
+
+2020-06-23 19:36:05,403 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-list+SEATA_GROUP, md5=e4f00638b8a10e6994e67af2f832d51c, lastModifiedOld=1592906507574, lastModifiedNew=1592912165374
+
+2020-06-23 19:36:05,505 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-prometheus-port+SEATA_GROUP, md5=7b9dc501afe4ee11c56a4831e20cee71, lastModifiedOld=1592906507623, lastModifiedNew=1592912165421
+
+2020-06-23 19:43:26,828 WARN [dump-ignore] ignore to save cache file. groupKey=transport.type+SEATA_GROUP, md5=b136ef5f6a01d816991fe3cf7a6ac763, lastModifiedOld=1592906504689, lastModifiedNew=1592912606746
+
+2020-06-23 19:43:26,830 WARN [dump-ignore] ignore to save cache file. groupKey=transport.server+SEATA_GROUP, md5=b6d9dfc0fb54277321cebc0fff55df2f, lastModifiedOld=1592906504819, lastModifiedNew=1592912606796
+
+2020-06-23 19:43:26,931 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-prefix+SEATA_GROUP, md5=0f8db59a3b7f2823f38a70c308361836, lastModifiedOld=1592906504951, lastModifiedNew=1592912606894
+
+2020-06-23 19:43:26,933 WARN [dump-ignore] ignore to save cache file. groupKey=transport.heartbeat+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906504891, lastModifiedNew=1592912606847
+
+2020-06-23 19:43:27,034 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-prefix+SEATA_GROUP, md5=a78ec7ef5d1631754c4e72ae8a3e9205, lastModifiedOld=1592906505021, lastModifiedNew=1592912606943
+
+2020-06-23 19:43:27,039 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.server-executor-thread-prefix+SEATA_GROUP, md5=11a36309f3d9df84fa8b59cf071fa2da, lastModifiedOld=1592906505078, lastModifiedNew=1592912606991
+
+2020-06-23 19:43:27,141 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.share-boss-worker+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505130, lastModifiedNew=1592912607035
+
+2020-06-23 19:43:27,143 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-prefix+SEATA_GROUP, md5=cd7ec5a06541e75f5a7913752322c3af, lastModifiedOld=1592906505183, lastModifiedNew=1592912607085
+
+2020-06-23 19:43:27,146 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-selector-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505236, lastModifiedNew=1592912607133
+
+2020-06-23 19:43:27,248 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.client-worker-thread-prefix+SEATA_GROUP, md5=61cf4e69a56354cf72f46dc86414a57e, lastModifiedOld=1592906505288, lastModifiedNew=1592912607186
+
+2020-06-23 19:43:27,250 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.boss-thread-size+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906505345, lastModifiedNew=1592912607235
+
+2020-06-23 19:43:27,351 WARN [dump-ignore] ignore to save cache file. groupKey=transport.thread-factory.worker-thread-size+SEATA_GROUP, md5=c9f0f895fb98ab9159f51fd0297e236d, lastModifiedOld=1592906505403, lastModifiedNew=1592912607283
+
+2020-06-23 19:43:27,352 WARN [dump-ignore] ignore to save cache file. groupKey=transport.shutdown.wait+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906505455, lastModifiedNew=1592912607331
+
+2020-06-23 19:43:27,455 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.my_test_tx_group+SEATA_GROUP, md5=ec2ddfa6328a6409200aa2f2bdcde20b, lastModifiedOld=1592912163299, lastModifiedNew=1592912607377
+
+2020-06-23 19:43:27,456 WARN [dump-ignore] ignore to save cache file. groupKey=service.enableDegrade+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505564, lastModifiedNew=1592912607424
+
+2020-06-23 19:43:27,557 WARN [dump-ignore] ignore to save cache file. groupKey=service.disable+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906505614, lastModifiedNew=1592912607469
+
+2020-06-23 19:43:27,559 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.commit.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505668, lastModifiedNew=1592912607518
+
+2020-06-23 19:43:27,661 WARN [dump-ignore] ignore to save cache file. groupKey=client.async.commit.buffer.limit+SEATA_GROUP, md5=b7a782741f667201b54880c925faec4b, lastModifiedOld=1592906505783, lastModifiedNew=1592912607615
+
+2020-06-23 19:43:27,663 WARN [dump-ignore] ignore to save cache file. groupKey=service.max.rollback.retry.timeout+SEATA_GROUP, md5=6bb61e3b7bce0931da574d19d1d82c88, lastModifiedOld=1592906505723, lastModifiedNew=1592912607568
+
+2020-06-23 19:43:27,764 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.internal+SEATA_GROUP, md5=d3d9446802a44259755d38e6d163e820, lastModifiedOld=1592906505842, lastModifiedNew=1592912607686
+
+2020-06-23 19:43:27,766 WARN [dump-ignore] ignore to save cache file. groupKey=client.lock.retry.times+SEATA_GROUP, md5=34173cb38f07f89ddbebc2ac9128303f, lastModifiedOld=1592906505892, lastModifiedNew=1592912607731
+
+2020-06-23 19:43:27,868 WARN [dump-ignore] ignore to save cache file. groupKey=store.mode+SEATA_GROUP, md5=d77d5e503ad1439f585ac494268b351b, lastModifiedOld=1592911110373, lastModifiedNew=1592912607778
+
+2020-06-23 19:43:27,869 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.dir+SEATA_GROUP, md5=6a8dec07c44c33a8a9247cba5710bbb2, lastModifiedOld=1592906506005, lastModifiedNew=1592912607825
+
+2020-06-23 19:43:27,970 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-global-session-size+SEATA_GROUP, md5=10a7cdd970fe135cf4f7bb55c0e3b59f, lastModifiedOld=1592906506111, lastModifiedNew=1592912607918
+
+2020-06-23 19:43:27,972 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.file-write-buffer-cache-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506168, lastModifiedNew=1592912607965
+
+2020-06-23 19:43:27,974 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.max-branch-session-size+SEATA_GROUP, md5=c76fe1d8e08462434d800487585be217, lastModifiedOld=1592906506059, lastModifiedNew=1592912607870
+
+2020-06-23 19:43:28,076 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.session.reload.read_size+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506284, lastModifiedNew=1592912608061
+
+2020-06-23 19:43:28,077 WARN [dump-ignore] ignore to save cache file. groupKey=store.file.flush-disk-mode+SEATA_GROUP, md5=0df93e34273b367bb63bad28c94c78d5, lastModifiedOld=1592906506229, lastModifiedNew=1592912608013
+
+2020-06-23 19:43:28,179 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.db-type+SEATA_GROUP, md5=81c3b080dad537de7e10e0987a4bf52e, lastModifiedOld=1592906506384, lastModifiedNew=1592912608163
+
+2020-06-23 19:43:28,281 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.driver-class-name+SEATA_GROUP, md5=683cf0c3a5a56cec94dfac94ca16d760, lastModifiedOld=1592911110801, lastModifiedNew=1592912608210
+
+2020-06-23 19:43:28,282 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.url+SEATA_GROUP, md5=cbb3bd573704f125fb4f2489208abaec, lastModifiedOld=1592906506433, lastModifiedNew=1592912608255
+
+2020-06-23 19:43:28,391 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.password+SEATA_GROUP, md5=e10adc3949ba59abbe56e057f20f883e, lastModifiedOld=1592908140410, lastModifiedNew=1592912608344
+
+2020-06-23 19:43:28,393 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.user+SEATA_GROUP, md5=63a9f0ea7bb98050796b649e85481845, lastModifiedOld=1592910892744, lastModifiedNew=1592912608300
+
+2020-06-23 19:43:28,494 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.max-conn+SEATA_GROUP, md5=eccbc87e4b5ce2fe28308fd9f2a7baf3, lastModifiedOld=1592906506642, lastModifiedNew=1592912608454
+
+2020-06-23 19:43:28,496 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.min-conn+SEATA_GROUP, md5=c4ca4238a0b923820dcc509a6f75849b, lastModifiedOld=1592906506595, lastModifiedNew=1592912608408
+
+2020-06-23 19:43:28,597 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.global.table+SEATA_GROUP, md5=8b28fb6bb4c4f984df2709381f8eba2b, lastModifiedOld=1592906506694, lastModifiedNew=1592912608500
+
+2020-06-23 19:43:28,600 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.branch.table+SEATA_GROUP, md5=54bcdac38cf62e103fe115bcf46a660c, lastModifiedOld=1592906506743, lastModifiedNew=1592912608546
+
+2020-06-23 19:43:28,702 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.query-limit+SEATA_GROUP, md5=f899139df5e1059396431415e770c6dd, lastModifiedOld=1592906506790, lastModifiedNew=1592912608595
+
+2020-06-23 19:43:28,704 WARN [dump-ignore] ignore to save cache file. groupKey=store.db.lock-table+SEATA_GROUP, md5=55e0cae3b6dc6696b768db90098b8f2f, lastModifiedOld=1592906506844, lastModifiedNew=1592912608643
+
+2020-06-23 19:43:28,706 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506904, lastModifiedNew=1592912608689
+
+2020-06-23 19:43:28,808 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.rollbacking-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507011, lastModifiedNew=1592912608784
+
+2020-06-23 19:43:28,810 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.asyn-committing-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906506959, lastModifiedNew=1592912608739
+
+2020-06-23 19:43:28,911 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.data.validation+SEATA_GROUP, md5=b326b5062b2f0e69046810717534cb09, lastModifiedOld=1592906507110, lastModifiedNew=1592912608884
+
+2020-06-23 19:43:28,913 WARN [dump-ignore] ignore to save cache file. groupKey=recovery.timeout-retry-period+SEATA_GROUP, md5=a9b7ba70783b617e9998dc4dd82eb3c5, lastModifiedOld=1592906507060, lastModifiedNew=1592912608832
+
+2020-06-23 19:43:29,014 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.save.days+SEATA_GROUP, md5=8f14e45fceea167a5a36dedd4bea2543, lastModifiedOld=1592906507210, lastModifiedNew=1592912608985
+
+2020-06-23 19:43:29,017 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.serialization+SEATA_GROUP, md5=b41779690b83f182acc67d6388c7bac9, lastModifiedOld=1592906507161, lastModifiedNew=1592912608938
+
+2020-06-23 19:43:29,118 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.table+SEATA_GROUP, md5=2842d229c24afe9e61437135e8306614, lastModifiedOld=1592906507319, lastModifiedNew=1592912609081
+
+2020-06-23 19:43:29,120 WARN [dump-ignore] ignore to save cache file. groupKey=transaction.undo.log.delete.period+SEATA_GROUP, md5=f4c122804fe9076cb2710f55c3c6e346, lastModifiedOld=1592906507265, lastModifiedNew=1592912609035
+
+2020-06-23 19:43:29,222 WARN [dump-ignore] ignore to save cache file. groupKey=transport.serialization+SEATA_GROUP, md5=b943081c423b9a5416a706524ee05d40, lastModifiedOld=1592906507372, lastModifiedNew=1592912609130
+
+2020-06-23 19:43:29,223 WARN [dump-ignore] ignore to save cache file. groupKey=transport.compressor+SEATA_GROUP, md5=334c4a4c42fdb79d7ebc3e73b517e6f8, lastModifiedOld=1592906507423, lastModifiedNew=1592912609178
+
+2020-06-23 19:43:29,324 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.enabled+SEATA_GROUP, md5=68934a3e9455fa72420237eb05902327, lastModifiedOld=1592906507474, lastModifiedNew=1592912609223
+
+2020-06-23 19:43:29,326 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.registry-type+SEATA_GROUP, md5=7cf74ca49c304df8150205fc915cd465, lastModifiedOld=1592906507524, lastModifiedNew=1592912609269
+
+2020-06-23 19:43:29,327 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-list+SEATA_GROUP, md5=e4f00638b8a10e6994e67af2f832d51c, lastModifiedOld=1592906507574, lastModifiedNew=1592912609315
+
+2020-06-23 19:43:29,428 WARN [dump-ignore] ignore to save cache file. groupKey=metrics.exporter-prometheus-port+SEATA_GROUP, md5=7b9dc501afe4ee11c56a4831e20cee71, lastModifiedOld=1592906507623, lastModifiedNew=1592912609362
+
+2020-06-23 20:35:31,348 WARN [dump-ignore] ignore to save cache file. groupKey=service.vgroup_mapping.my_test_tx_group+SEATA_GROUP, md5=ec2ddfa6328a6409200aa2f2bdcde20b, lastModifiedOld=1592912163299, lastModifiedNew=1592915731250
+
